@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Tanveer Khan</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <p3 align="center">Hey, It's Mohd Tanveer Khan and I am a Full Stack Developer. I believe that with a positive mindset you can handle every challenge and love to work on challenging projects. Always looking for opportunities to enhance my skills. 
 Skills: HTML, CSS, Javascript, Bootstrap, NodeJs, Express, Mongodb, React.</p3>
 
