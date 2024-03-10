@@ -28,4 +28,4 @@ Skills: HTML, CSS, Javascript, Bootstrap, NodeJs, Express, Mongodb, React.</p3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanveerkhan4u&show_icons=true&locale=en" alt="tanveerkhan4u" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanveerkhan4u&" alt="tanveerkhan4u" /></p>
+
